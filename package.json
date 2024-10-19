@@ -6,10 +6,10 @@
   },
   "name": "privacypolicyexxplorerlinkedinapp",
   "version": "1.0.0",
-  "description": "<table style=\"width:100%; border:none;\"><tr><td><strong>Logo Exxplorer</strong></td><td align=\"right\"><img src=\"assets/logo-exxplorer.png\" width=\"150\" alt=\"Logo Exxplorer\"></td></tr></table>",
-  "main": "index.js",
+  "description": "<table style=\"width:100%; border:none;\">\r     <tr>\r         <td><strong>Logo Exxplorer</strong></td>\r         <td align=\"right\"><img src=\"assets/logo-exxplorer.png\" width=\"150\" alt=\"Logo Exxplorer\"></td>\r     </tr>\r </table>",
+  "main": "script.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
