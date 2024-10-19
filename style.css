@@ -1,0 +1,70 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #1e1e1e;
+    color: #ffffff;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    margin-bottom: 20px;
+}
+
+.logo {
+    height: 60px;
+}
+
+.org-logo {
+    height: 50px;
+}
+
+.policy-container {
+    background: #2e2e2e;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    max-width: 800px;
+    width: 100%;
+}
+
+.policy-container h1, .policy-container h2 {
+    color: #00aaff;
+    margin-bottom: 15px;
+}
+
+.policy-container p, .policy-container ul {
+    margin-bottom: 15px;
+}
+
+.policy-container a {
+    color: #00aaff;
+    text-decoration: none;
+}
+
+.signature {
+    margin-top: 20px;
+    width: 150px;
+    opacity: 0.8;
+    transition: opacity 0.3s;
+}
+
+.signature:hover {
+    opacity: 1;
+}
