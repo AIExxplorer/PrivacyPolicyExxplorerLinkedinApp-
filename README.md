@@ -28,6 +28,7 @@ project-root/
     ├── logo-artificial-universe.png
     ├── slogan.png
     └── assinatura-digital.png
+```
 
 ## 🎨 Estilo e Design
 
