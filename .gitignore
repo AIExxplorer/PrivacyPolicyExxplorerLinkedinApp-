@@ -29,3 +29,6 @@ Thumbs.db
 
 # Arquivos do GitHub Actions
 .github/workflows/*.secrets
+
+#Arquivos Sensiveis
+getAccessToken.js

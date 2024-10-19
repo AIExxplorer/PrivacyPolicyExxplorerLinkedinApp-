@@ -9,7 +9,6 @@ app.get('/', (req, res) => {
 
 // Rota para tratar a callback do LinkedIn
 app.get('/auth/linkedin/callback', (req, res) => {
-    // Aqui você vai capturar o código de autorização que o LinkedIn envia
     const code = req.query.code;
 
     if (!code) {
@@ -17,7 +16,6 @@ app.get('/auth/linkedin/callback', (req, res) => {
         return;
     }
 
-    // Mensagem temporária de sucesso
     res.send(`Código de autorização recebido: ${code}`);
 });
 
