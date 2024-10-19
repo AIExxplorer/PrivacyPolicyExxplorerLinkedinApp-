@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const PORT = process.env.PORT || 80;
 
+app.use(cors());
 // Rota principal
 app.get('/', (req, res) => {
     res.send('Servidor Local Rodando');
