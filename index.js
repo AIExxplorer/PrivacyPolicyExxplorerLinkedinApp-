@@ -58,8 +58,8 @@ async function sendDiscordNotification(message) {
 
 // Função principal
 async function main() {
-    // Obtenha o código de autorização manualmente e substitua aqui
-    const authorizationCode = 'SEU_CÓDIGO_DE_AUTORIZAÇÃO_AQUI';
+    // Insira o código de autorização que você obteve manualmente
+    const authorizationCode = 'AQTlK9piCqni7Ik0Sv1xnEwf8fUTFsHpOM2iekTI8nDersQRnyBHlSh4qj7qFbtcUS7PXZibC5TqBnGuAP9KHLOGRqhevdzeHLVM40KaWZgeFh5nUXfIAsAzJbF6za0vMFB-XQarS2zgx2mp6PQ0-ixE3v4Tcw3PDDEa7yr6pGy1LAXh8y2IwxvUjTKc5rs8dAOwkrtbGkz1ewVMWnA';
 
     // Obtenha o access token
     const accessToken = await getAccessToken(authorizationCode);
