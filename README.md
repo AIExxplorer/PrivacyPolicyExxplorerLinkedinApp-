@@ -1,6 +1,11 @@
 # Política de Privacidade - Exxplorer
 
-![Logo Exxplorer](assets/logo-exxplorer.png)
+<table style="width:100%; border:none;">
+    <tr>
+        <td><strong>Logo Exxplorer</strong></td>
+        <td align="right"><img src="assets/logo-exxplorer.png" width="150" alt="Logo Exxplorer"></td>
+    </tr>
+</table>
 
 Bem-vindo ao repositório da **Política de Privacidade** do aplicativo **Exxplorer**, desenvolvido para garantir a transparência e a segurança dos dados dos nossos usuários. Este documento descreve como coletamos, utilizamos e protegemos suas informações, em conformidade com as regulamentações vigentes.
 
@@ -23,7 +28,6 @@ project-root/
     ├── logo-artificial-universe.png
     ├── slogan.png
     └── assinatura-digital.png
-```
 
 ## 🎨 Estilo e Design
 
@@ -45,10 +49,20 @@ A política de privacidade está hospedada via **GitHub Pages**. Acesse diretame
 
 ## 🖼️ Imagens e Recursos
 
-- **Logo Exxplorer**: ![Logo Exxplorer](assets/logo-exxplorer.png)
-- **Logo Artificial Universe**: ![Logo Artificial Universe](assets/logo-artificial-universe.png)
-- **Slogan**: ![Slogan](assets/slogan.png)
-- **Assinatura Digital**: ![Assinatura Digital](assets/assinatura-digital.png)
+<table style="width:100%; border:none;">
+    <tr>
+        <td><strong>Logo Artificial Universe</strong></td>
+        <td align="right"><img src="assets/logo-artificial-universe.png" width="150" alt="Logo Artificial Universe"></td>
+    </tr>
+    <tr>
+        <td><strong>Slogan</strong></td>
+        <td align="right"><img src="assets/slogan.png" width="150" alt="Slogan"></td>
+    </tr>
+    <tr>
+        <td><strong>Assinatura Digital</strong></td>
+        <td align="right"><img src="assets/assinatura-digital.png" width="150" alt="Assinatura Digital"></td>
+    </tr>
+</table>
 
 > Todas as imagens utilizadas pertencem aos respectivos proprietários e são usadas para reforçar a identidade visual da aplicação.
 
