@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Ignorar arquivo de configuração do ngrok
+ngrok.yml
+
+# Diretórios de cache e temporários
+tmp/
+.cache/
+
+# Arquivos de build
+dist/
+build/
+
+# Configurações locais do editor
+.vscode/
+.idea/
+
+# Pastas e arquivos criados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos do GitHub Actions
+.github/workflows/*.secrets
