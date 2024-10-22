@@ -79,12 +79,17 @@ Caso tenha dúvidas ou precise de mais informações, entre em contato conosco:
 
 ---
 
-**© 2024 Exxplorer. Todos os direitos reservados.**
+<div align="center"> © 2024 Artificial Universe & AIExxplorer. Todos os direitos reservados. </div>
 
 <div align="center">
-    <img src="assets/assinatura-digital.png" alt="Assinatura Digital" width="150">
+    <img src="assets/slogan.png" alt="CodingTheFuture" width="150">
+</div>
+
+<div align="center">
+    <img src="assets/assinatura-digital.png" alt="Assinatura AIExxplorer" width="150">
 </div>
 
 ---
 
-Feito com ❤️ pela equipe da **Artificial Universe** para garantir a melhor experiência e segurança aos nossos usuários.
+<div align="center">Feito com ❤️ pela equipe da Artificial Universe para melhorar a experiência de integração para desenvolvedores e usuários.</div>
+
